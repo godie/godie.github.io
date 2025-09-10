@@ -1,7 +1,3 @@
----
-title: "Diego Mendoza Salas"
----
-
 # Diego Mendoza Salas
 
 <p>Experienced Full-Stack Software Engineer with 15 years in building scalable web and mobile applications, specializing in <b>Java with Spring Boot, microservices, and ReactJS</b>. Proven track record in designing and implementing high-impact, distributed systems for the fintech industry. Strong background in backend development, cloud infrastructure (AWS CDK), and modern frontend frameworks.</p>
