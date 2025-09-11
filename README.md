@@ -45,6 +45,11 @@
 
 ### Early Career
 
-* **Hunabsys R&D** | Sep 2012 - Feb 2014: Led the development of a mobile point-of-sale (POS) application for iPad and improved the efficiency of a high-volume SMS messaging system.
-* **AutoAgente** | Feb 2012 - Aug 2012: Developed a high-volume SMS messaging system using Java and contributed to web development projects with PHP.
-* **Neoris** | Aug 2009 - Nov 2011: Contributed to an enterprise accounting project, implementing asynchronous processing with **JMS** and working with **Java EE** and **JPA**.
+#### **Hunabsys R&D** | Sep 2012 - Feb 2014: 
+* Led the development of a mobile point-of-sale (POS) application for iPad and improved the efficiency of a high-volume SMS messaging system.
+
+####  **AutoAgente** | Feb 2012 - Aug 2012: 
+* Developed a high-volume SMS messaging system using Java and contributed to web development projects with PHP.
+
+####  **Neoris** | Aug 2009 - Nov 2011: 
+* Contributed to an enterprise accounting project, implementing asynchronous processing with **JMS** and working with **Java EE** and **JPA**.
